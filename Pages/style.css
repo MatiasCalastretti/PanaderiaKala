@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-image: url(/Images/01ImagenPrincipal.jpg);
+  background-image: url(../ImagenPrincipal.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
